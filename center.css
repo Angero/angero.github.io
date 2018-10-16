@@ -6,7 +6,7 @@
 
 body 
 {
-  background:#FC5;
+  /* background:#FC5; */
 }
 
 #container 
@@ -14,5 +14,5 @@ body
   width:900px;
   margin:0 auto;
   padding:20;
-  background-color:#0C6;
+  /* background-color:#0C6; */
 }
