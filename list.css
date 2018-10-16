@@ -1,11 +1,11 @@
 ul 
 {
   list-style-type: square;
-  list-style-position: inside;
+  /* list-style-position: inside; */
 }
 
-li 
+/* li 
 {
   padding: 0px;
   margin: 0px;
-}
+} */
